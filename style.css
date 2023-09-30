@@ -1,0 +1,14 @@
+#footer{
+    bottom:0px;
+
+}
+body{
+    background-color: bisque;
+}
+#camera{
+  border-radius: 10%;
+  border-color:black;
+  border-width: 3px;
+  border-style: double;
+}
+#re
